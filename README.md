@@ -1,6 +1,6 @@
-# weather-icons-font-awesome
+# weather-icons-
 
-Some [icons](http://fontello.github.io/weathercons.font/demo.html )
+Some [icons](http://fontello.github.io/weathercons.font/demo.html ) by font awesome
 ### About
 Pack of svg icons with clear background
 
